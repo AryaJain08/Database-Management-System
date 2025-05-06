@@ -38,6 +38,8 @@ This repository contains all experiments and assignments conducted as part of th
 ---
 
 **Name:** Arya Jain
-**College Name:** Symbiosis Institute of Technology, Nagpur   
+
+**College Name:** Symbiosis Institute of Technology, Nagpur
+
 **Branch:** Computer Science and Engineering      
 
